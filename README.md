@@ -2,4 +2,4 @@
 A python program which guesses the users number with the use of bisection search.
 
 ### Prerequisites
-Installed Packages - python 2.7
+Installed Packages - python 3.6
